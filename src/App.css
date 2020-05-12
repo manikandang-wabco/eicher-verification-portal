@@ -1,0 +1,202 @@
+.nav-link-custom {
+  cursor: pointer;
+}
+
+.btn,
+#inlineFormCustomSelect,
+.daterangepicker,
+.card,
+.btn-custom,
+.applyBtn,
+.card-header,
+.Select-control,
+.Select-value,
+.cardLayout,
+.my-0 {
+  border-radius: 0px !important;
+}
+
+.btn-custom,
+.applyBtn {
+  background-color: #00529e !important;
+  border-color: #00529e !important ;
+}
+
+.list-group-item.active {
+  background-color: #00529e !important;
+  border: none;
+  color: #fff !important;
+}
+
+.list-group-item.active :hover {
+  background-color: #00529e !important;
+  border: none;
+  color: #fff !important;
+}
+
+a.bg-light:hover {
+  background-color: #00529e !important;
+  color: #fff !important;
+}
+
+.card-header {
+  background-color: #00529e !important;
+  opacity: 1 !important;
+}
+
+.Select-control {
+  width: 40% !important;
+  padding-bottom: 6px !important;
+}
+
+.Select-value {
+  text-align: center !important;
+  padding-top: 3% !important;
+}
+
+.my-0 {
+  width: 35% !important;
+  z-index: 8 !important;
+  float: left !important;
+  position: relative !important;
+  right: 30% !important;
+  text-align: center !important;
+}
+
+.Select-value-label {
+  color: #495057 !important;
+  border-color: #e7e7e7 !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+.selectouter {
+  width: 100% !important;
+}
+
+.cardLayout {
+  height: 200px !important;
+  background-color: #f5f5f5 !important;
+  border: none !important;
+}
+
+.form-row {
+  margin-top: 10px !important;
+}
+
+.page-title {
+  margin: 0 auto;
+  display: none;
+  font-size: 2rem;
+  color: #00529e;
+}
+
+.page-title-show {
+  display: block !important;
+}
+
+a,
+.dropdown-btn {
+  padding: 6px 8px 6px 16px;
+  display: block;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+}
+
+.fa-caret-down {
+  float: right;
+  padding-right: 8px;
+  padding-top: 5px;
+}
+
+.pageHeader {
+  text-align: center;
+  line-height: 30px;
+  font-size: 21px;
+  margin-top: 1%;
+}
+
+.dropdown-container {
+  display: none;
+}
+
+.custom-container-reports {
+  width: 35%;
+  text-align: center;
+  margin: 2% auto;
+}
+
+.reports-table {
+  background-color: #495057;
+}
+
+.reports-custom tr td {
+  font-size: 12px !important;
+}
+
+.reports-custom tr td:hover {
+  font-weight: bold;
+}
+
+.table > thead > tr > th {
+  line-height: 12px !important;
+  font-size: 10px !important;
+}
+
+.container {
+  padding: 0 0 0 0 !important;
+  max-width: 100% !important;
+}
+
+.totalRecordsCount {
+  margin-top: 1%;
+  float: right;
+  margin-right: 15px;
+}
+
+.bgSpan {
+  color: #00529e;
+}
+
+.loading {
+  height: 0;
+  width: 0;
+  padding: 15px;
+  border: 6px solid #ccc;
+  border-right-color: #888;
+  border-radius: 22px;
+  -webkit-animation: rotate 1s infinite linear;
+  /* left, top and position just for the demo! */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+@-webkit-keyframes rotate {
+  /* 100% keyframe for  clockwise.
+     use 0% instead for anticlockwise */
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+.primary,
+.daterangepicker .ranges li.active,
+.daterangepicker td.active,
+.daterangepicker td.active:hover {
+  background-color: #00529e !important;
+  border-color: #00529e !important;
+}
+
+.input-item {
+  display: none;
+}
+
+.loading-img {
+  width: 35px;
+  height: 35px;
+}
+
+.custom-input-box {
+  width: 280px !important;
+}

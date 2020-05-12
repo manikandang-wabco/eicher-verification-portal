@@ -1,0 +1,47 @@
+.hide{
+    display:none;
+}
+
+.dateRangePicker,.speedInput,.noRecords,.startOdo,.endOdo{
+    text-align: center !important;
+}
+
+.speedInput,.startOdo,.endOdo{
+    height: 37px !important;
+}
+
+.noRecords{
+    margin-top: 10% !important;
+    font-size: 35px !important;
+}
+
+.startOdo{
+    margin-right: 5px !important;
+}
+
+.dateRangePicker{
+    height: 38px !important;
+}
+
+table
+  {
+	border-collapse: collapse !important;
+	border-spacing: 0 !important;
+	width: 99% !important;
+  }
+ thead, th
+  {
+	background: #0051A0; color: #FFFFFF !important; height: 30px; /* #70C469;*/
+    border: 1px solid #dadada;
+    font-size: 12px;
+
+  }
+  tr, td{
+	border: solid #CBC3B5 1px;
+    height:30px;
+    background:#fff;
+    font-size: 11px;
+  }
+.active-btn{
+  background-color: #0051A0; color: #FFFFFF !important;
+}

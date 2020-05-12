@@ -1,0 +1,58 @@
+.reportUpload {
+  text-align: center;
+  margin-top: 2%;
+}
+
+/* .btnUpload {
+  width: 100px;
+  font-size: 80% !important;
+  color: #000 !important;
+  background-color: #fbfbfb !important;
+  border: 1px solid #aaaaaa !important;
+}
+
+.btnUpload:hover {
+  color: #fff !important;
+  background-color: #0069d9 !important;
+  border-color: #0062cc !important;
+}
+ */
+
+.dropArea {
+  background: #00529e !important;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -250px;
+  width: 400px;
+  height: 200px;
+  border: 4px dashed #fff;
+  cursor: pointer !important;
+}
+
+.dropArea h3 {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 170px;
+  color: #ffffff;
+  font-family: Arial;
+  cursor: pointer !important;
+}
+
+.dropArea input {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  outline: none;
+  opacity: 0;
+  margin-left: -50% !important;
+  cursor: pointer !important;
+}
+
+.uploadStatus {
+  margin: 3% 9% 0 0;
+}
