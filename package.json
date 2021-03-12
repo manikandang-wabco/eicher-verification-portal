@@ -68,7 +68,7 @@
     "react-bootstrap-daterangepicker": "^4.1.0",
     "react-bootstrap-datetimerangepicker": "^2.0.4",
     "react-daterange-picker": "^2.0.1",
-    "react-dev-utils": "^10.2.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.13.1",
     "react-responsive-data-table": "^1.0.5",
     "react-router-dom": "^5.1.2",
